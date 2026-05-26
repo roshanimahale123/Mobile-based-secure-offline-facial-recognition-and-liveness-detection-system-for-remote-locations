@@ -1,8 +1,10 @@
-<img width="1290" height="860" alt="image" src="https://github.com/user-attachments/assets/89b22596-93ac-4e2b-a882-617553ba9ab2" /># AI Facial Recognition System
+AI Facial Recognition System
 
 ## 📌 Overview
 
 AI Facial Recognition System is a Flutter-based application that performs real-time face detection and user authentication using Artificial Intelligence and Computer Vision techniques. The system captures facial data through the camera and verifies user identity securely and efficiently.
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/f46db94d-42fc-4e26-a24c-de8620bbbda9" />
+
 
 ---
 
