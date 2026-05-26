@@ -3,6 +3,7 @@ AI Facial Recognition System
 ## 📌 Overview
 
 AI Facial Recognition System is a Flutter-based application that performs real-time face detection and user authentication using Artificial Intelligence and Computer Vision techniques. The system captures facial data through the camera and verifies user identity securely and efficiently.
+<img width="1381" height="1139" alt="4a2106c9-1390-4f61-b0ac-2dc8685ba145" src="https://github.com/user-attachments/assets/f0855e80-ead4-4278-a191-2a1b3b398951" />
 
 
 
@@ -74,20 +75,26 @@ flutter run
 ## 📸 Screenshots
 
 ### Home Screen
-<img width="419" height="594" alt="detect4" src="https://github.com/user-attachments/assets/a892211f-d713-47cc-96d2-d80fcff89fbf" />
+
+<img width="293" height="594" alt="de5" src="https://github.com/user-attachments/assets/201c8728-be01-4e9a-9547-5766704fe142" />
 
 
+<img width="291" height="594" alt="de6" src="https://github.com/user-attachments/assets/5d96cc34-7375-4eda-bcee-e395c992f0f3" />
 
 
 ### Face Detection
 
-![Face Detection](https://via.placeholder.com/800x400.png?text=F![Uploading de5.png…]()
-![Uploading detect2.png…]()
-ace+Detection)
+
+<img width="1366" height="683" alt="detect" src="https://github.com/user-attachments/assets/2568e900-c4d4-41c0-b3cb-250a1118c123" />
+
+<img width="325" height="589" alt="detect2" src="https://github.com/user-attachments/assets/1dd16bf0-a09c-49a6-90f2-79658ffd8e8b" />
 
 ### Authentication Result
 
 ![Authentication](https://via.placeholder.com/800x400.png?text=Authentication+Success)
+<img width="419" height="594" alt="detect4" src="https://github.com/user-attachments/assets/dfd27765-1256-4a09-9001-38ab99a99682" />
+<img width="325" height="587" alt="detect3" src="https://github.com/user-attachments/assets/8a00a6a8-cca6-45f2-9ca5-b1b525886d47" />
+
 
 ---
 
